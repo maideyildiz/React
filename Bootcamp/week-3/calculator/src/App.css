@@ -1,0 +1,10 @@
+.structure{
+  width: 500px;
+  height: 500px;
+  border-radius: 5px;
+  background-color: #6B4F4F;
+  padding: 8%;
+}
+.row{
+  display: flex;
+}

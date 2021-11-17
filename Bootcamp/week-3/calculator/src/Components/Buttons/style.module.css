@@ -1,0 +1,12 @@
+.calItem{
+    background-color: #EED6C4;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+    height: 40px;
+    width: 30px;
+    border-radius: 50px;
+    flex:1;
+}

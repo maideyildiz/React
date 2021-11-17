@@ -1,0 +1,18 @@
+.screen{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    height: 8em;
+    border-radius:10px;
+    background-color: #FFF3E4;
+    padding: 5%;
+}
+.result{
+    font-size: 20px;
+    flex:1;
+}
+.pending{
+    font-size: 15px;
+    flex:1;
+}
